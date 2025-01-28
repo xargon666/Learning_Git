@@ -3,7 +3,7 @@
 body {
     background-color: #0e1214;
     padding: 0 1.5rem;
-    
+    color: #fee;
 }
 
 h1 {
@@ -12,7 +12,6 @@ h1 {
     font-weight: 400;
     font-style: normal;
 }
-
 
 h2 {
     color: #71a0ec;
